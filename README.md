@@ -1,4 +1,4 @@
-# Random Password Generator
+# PasswordPal - Random Password Generator
 
 ![GitHub](https://img.shields.io/github/license/Jeevan2305/Random-Password-Generator)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Jeevan2305/Random-Password-Generator)
